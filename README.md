@@ -13,3 +13,4 @@ Saving the file with added changes in the first.txt file
 add the file from changes to the stagged by using git add .
 Commit the changes with the modified text in the first.txt file by using git commit -m "Third Intialize"
 edit 1
+<img width="960" alt="{2485478B-71FC-4B96-84C4-1BB751F58A71}" src="https://github.com/user-attachments/assets/30b405c7-1df7-4619-a6db-1b6885e8a2fb" />
