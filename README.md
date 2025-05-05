@@ -12,3 +12,4 @@ Now again changing the text in the first.txt file changing 10th line Minfy Assig
 Saving the file with added changes in the first.txt file 
 add the file from changes to the stagged by using git add .
 Commit the changes with the modified text in the first.txt file by using git commit -m "Third Intialize"
+edit 1
